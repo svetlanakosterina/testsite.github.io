@@ -83,7 +83,7 @@ author:
   name             : "Test Name"
   avatar           : "profile.png"
   bio              : "my bio"
-  location         : "my location "
+  location         : # "my location "
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
