@@ -81,33 +81,12 @@ analytics:
 author:
   name             : "Test Name"
   avatar           : "profile.png"
-  bio              : "My bio"
-  location         : "Test Location"
-  employer         :
+-  bio              : "My bio"
+   employer         :
    googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-   google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-   pinterest        :
-  soundcloud       :
-   steam            :
-  tumblr           :
-   vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+ 
+ 
 
 
 # Reading Files
