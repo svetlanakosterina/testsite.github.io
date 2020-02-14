@@ -1,10 +1,6 @@
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
+<table style="border-collapse: collapse; border: none;">
+        <tr style="border: none;">
+            <td style="border: none;">
+            </td>
+        </tr>
+    </table> 
